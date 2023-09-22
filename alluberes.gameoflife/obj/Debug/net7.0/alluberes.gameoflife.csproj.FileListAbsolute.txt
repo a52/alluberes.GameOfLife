@@ -1,0 +1,14 @@
+C:\Dev\a52\alluberes.GameOfLife\alluberes.gameoflife\bin\Debug\net7.0\alluberes.gameoflife.exe
+C:\Dev\a52\alluberes.GameOfLife\alluberes.gameoflife\bin\Debug\net7.0\alluberes.gameoflife.deps.json
+C:\Dev\a52\alluberes.GameOfLife\alluberes.gameoflife\bin\Debug\net7.0\alluberes.gameoflife.runtimeconfig.json
+C:\Dev\a52\alluberes.GameOfLife\alluberes.gameoflife\bin\Debug\net7.0\alluberes.gameoflife.dll
+C:\Dev\a52\alluberes.GameOfLife\alluberes.gameoflife\bin\Debug\net7.0\alluberes.gameoflife.pdb
+C:\Dev\a52\alluberes.GameOfLife\alluberes.gameoflife\obj\Debug\net7.0\alluberes.gameoflife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\a52\alluberes.GameOfLife\alluberes.gameoflife\obj\Debug\net7.0\alluberes.gameoflife.AssemblyInfoInputs.cache
+C:\Dev\a52\alluberes.GameOfLife\alluberes.gameoflife\obj\Debug\net7.0\alluberes.gameoflife.AssemblyInfo.cs
+C:\Dev\a52\alluberes.GameOfLife\alluberes.gameoflife\obj\Debug\net7.0\alluberes.gameoflife.csproj.CoreCompileInputs.cache
+C:\Dev\a52\alluberes.GameOfLife\alluberes.gameoflife\obj\Debug\net7.0\alluberes.gameoflife.dll
+C:\Dev\a52\alluberes.GameOfLife\alluberes.gameoflife\obj\Debug\net7.0\refint\alluberes.gameoflife.dll
+C:\Dev\a52\alluberes.GameOfLife\alluberes.gameoflife\obj\Debug\net7.0\alluberes.gameoflife.pdb
+C:\Dev\a52\alluberes.GameOfLife\alluberes.gameoflife\obj\Debug\net7.0\alluberes.gameoflife.genruntimeconfig.cache
+C:\Dev\a52\alluberes.GameOfLife\alluberes.gameoflife\obj\Debug\net7.0\ref\alluberes.gameoflife.dll
